@@ -1,0 +1,112 @@
+{
+  "servizi": [
+    {
+      "id": 1,
+      "nome": "Visita filtro",
+      "descrizione": "Prima visita di valutazione per malattie acute: raffreddore, febbre, otite, faringite. Esame clinico completo e indicazioni terapeutiche.",
+      "prezzo": 65,
+      "durata": "30 min",
+      "fascia": "urgenza",
+      "icona": "🩺"
+    },
+    {
+      "id": 2,
+      "nome": "Bilancio di salute",
+      "descrizione": "Visita di sorveglianza programmata: crescita, sviluppo psicomotorio, screening sensoriali. Seguiamo le tappe previste dal Piano Nazionale di Prevenzione.",
+      "prezzo": 80,
+      "durata": "45 min",
+      "fascia": "prevenzione",
+      "icona": "📈"
+    },
+    {
+      "id": 3,
+      "nome": "Vaccinazioni",
+      "descrizione": "Somministrazione vaccini del calendario regionale MIUR e vaccini facoltativi (influenza, meningite B/C, varicella, HPV). Counseling pre e post vaccinale.",
+      "prezzo": 70,
+      "durata": "30 min",
+      "fascia": "prevenzione",
+      "icona": "💉"
+    },
+    {
+      "id": 4,
+      "nome": "Controllo crescita",
+      "descrizione": "Misurazione peso, altezza, BMI con confronto sulle curve di crescita OMS. Valutazione dello sviluppo staturale e nutrizionale.",
+      "prezzo": 60,
+      "durata": "20 min",
+      "fascia": "prevenzione",
+      "icona": "📏"
+    },
+    {
+      "id": 5,
+      "nome": "Telemedicina",
+      "descrizione": "Videoconsulto pediatrico per valutazione di sintomi lievi, follow-up di malattie croniche, lettura referti e risposta ai dubbi dei genitori. Attivo da app o browser.",
+      "prezzo": 50,
+      "durata": "20 min",
+      "fascia": "digitale",
+      "icona": "💻"
+    },
+    {
+      "id": 6,
+      "nome": "Consulenza allergologica",
+      "descrizione": "Valutazione clinica di sospette allergie alimentari, rinite allergica, asma, eczema atopico. Indicazioni su test diagnostici e gestione della dieta.",
+      "prezzo": 90,
+      "durata": "45 min",
+      "fascia": "specialistica",
+      "icona": "🤧"
+    },
+    {
+      "id": 7,
+      "nome": "Dermatologia infantile",
+      "descrizione": "Diagnosi e trattamento di patologie cutanee comuni: dermatite atopica, orticaria, esantemi, mollusco contagioso, verruche. Prescrizione terapie topiche.",
+      "prezzo": 80,
+      "durata": "30 min",
+      "fascia": "specialistica",
+      "icona": "🧴"
+    },
+    {
+      "id": 8,
+      "nome": "Certificato medico sportivo",
+      "descrizione": "Certificato di idoneità sportiva non agonistica per iscrizione ad attività sportiva scolastica ed extrascolastica. Valido 1 anno.",
+      "prezzo": 60,
+      "durata": "25 min",
+      "fascia": "certificati",
+      "icona": "⚽"
+    },
+    {
+      "id": 9,
+      "nome": "Certificato scolastico",
+      "descrizione": "Certificato di riammissione scolastica dopo malattia infettiva (5 o più giorni di assenza) e altri certificati richiesti dalla scuola.",
+      "prezzo": 60,
+      "durata": "15 min",
+      "fascia": "certificati",
+      "icona": "📄"
+    },
+    {
+      "id": 10,
+      "nome": "Valutazione neuropsicomotoria",
+      "descrizione": "Screening dello sviluppo neuropsicomotorio nelle tappe chiave (3, 6, 9, 12, 18, 24 mesi). Individuazione precoce di ritardi e indicazioni per logopedia o terapia occupazionale.",
+      "prezzo": 100,
+      "durata": "50 min",
+      "fascia": "specialistica",
+      "icona": "🧠"
+    },
+    {
+      "id": 11,
+      "nome": "Gestione malattie croniche",
+      "descrizione": "Follow-up periodico per bambini con asma, allergie alimentari gravi, celiachia, diabete tipo 1. Piano terapeutico personalizzato e coordinamento con specialisti.",
+      "prezzo": 90,
+      "durata": "45 min",
+      "fascia": "specialistica",
+      "icona": "📋"
+    },
+    {
+      "id": 12,
+      "nome": "Consulto di secondo parere",
+      "descrizione": "Revisione della diagnosi e del piano terapeutico elaborato da altri professionisti. Utile per malattie complesse, diagnosi incerte o dubbi sulla terapia prescritta.",
+      "prezzo": 120,
+      "durata": "60 min",
+      "fascia": "specialistica",
+      "icona": "🔍"
+    }
+  ]
+}

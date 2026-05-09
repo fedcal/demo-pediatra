@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Come gestite le urgenze pediatriche?",
+      "risposta": "Per urgenze che non richiedono il Pronto Soccorso (febbre alta, vomito, pianto inconsolabile) è attivo un numero dedicato nelle ore di apertura. Al di fuori degli orari, vi indirizziamo al Pronto Soccorso Pediatrico di Verona (AOUI Borgo Trento) o al numero 118 per emergenze gravi."
+    },
+    {
+      "domanda": "Come si effettua la prima visita?",
+      "risposta": "La prima visita include anamnesi completa del bambino e della famiglia, esame fisico integrale, valutazione crescita e sviluppo. Portate il libretto sanitario del bambino, i documenti vaccinali precedenti e qualsiasi referti specialistici già eseguiti. La visita dura circa 45 minuti."
+    },
+    {
+      "domanda": "Seguite il calendario vaccinale regionale?",
+      "risposta": "Sì, seguiamo il calendario vaccinale MIUR 2024 obbligatorio e consigliamo anche i vaccini facoltativi (meningite B, rotavirus, influenza annuale). Forniamo counseling completo prima di ogni vaccinazione e siamo disponibili per rispondere ai dubbi dei genitori."
+    },
+    {
+      "domanda": "Come funziona la telemedicina?",
+      "risposta": "Il videoconsulto si effettua tramite piattaforma sicura (link inviato via email). È adatto per sintomi lievi, follow-up di malattie già valutate, lettura referti, domande di consulenza. Non sostituisce la visita in presenza per la prima valutazione o per bambini sotto i 3 mesi con sintomi."
+    },
+    {
+      "domanda": "Rilasciate certificati per la scuola?",
+      "risposta": "Rilasciamo certificati di riammissione scolastica (obbligatori dopo 5+ giorni di assenza per malattia infettiva), certificati di idoneità sportiva non agonistica e altri documenti richiesti dalla scuola o dalle attività extrascolastiche."
+    },
+    {
+      "domanda": "Chi può accompagnare il bambino alla visita?",
+      "risposta": "Il bambino deve essere accompagnato da un genitore o da un adulto con delega scritta (tutore, nonno, babysitter maggiorenne). Per i bambini sopra i 14 anni che frequentano la visita senza genitori è necessaria autorizzazione scritta di entrambi i genitori. La presenza di un familiare è sempre benvenuta."
+    },
+    {
+      "domanda": "Accettate il ticket SSN o solo pagamento privato?",
+      "risposta": "Lo studio è interamente privato e non è convenzionato con il SSN. I pagamenti sono a tariffa privata. Le spese mediche sono detraibili al 19% in dichiarazione dei redditi (art. 15 TUIR): conservate le ricevute fiscali."
+    },
+    {
+      "domanda": "Come trattate i dati del bambino (GDPR)?",
+      "risposta": "I dati sanitari del minore sono dati particolari ai sensi dell'art. 9 del GDPR. Raccogliamo il consenso di entrambi i genitori esercenti la responsabilità genitoriale. I dati sono conservati in archivi protetti, non ceduti a terzi, e il medico è soggetto al segreto professionale (art. 622 c.p.). Per la telemedicina utilizziamo piattaforme certificate GDPR-compliant in ambito sanitario."
+    }
+  ]
+}

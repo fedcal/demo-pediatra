@@ -1,0 +1,92 @@
+{
+  "nota": "Calendario vaccinale MIUR 2024 — dati illustrativi per demo",
+  "fasce": [
+    {
+      "eta": "Nascita",
+      "etaMesi": 0,
+      "vaccini": ["Epatite B (HBV) — 1ª dose"]
+    },
+    {
+      "eta": "3 mesi",
+      "etaMesi": 3,
+      "vaccini": [
+        "Esavalente (Difterite, Tetano, Pertosse, Polio, HBV, Hib) — 1ª dose",
+        "Pneumococco (PCV13) — 1ª dose",
+        "Meningococco B (MenB) — 1ª dose",
+        "Rotavirus — 1ª dose (facoltativo)"
+      ]
+    },
+    {
+      "eta": "5 mesi",
+      "etaMesi": 5,
+      "vaccini": [
+        "Esavalente — 2ª dose",
+        "Pneumococco — 2ª dose",
+        "Meningococco B — 2ª dose",
+        "Rotavirus — 2ª dose (facoltativo)"
+      ]
+    },
+    {
+      "eta": "11 mesi",
+      "etaMesi": 11,
+      "vaccini": [
+        "Esavalente — 3ª dose",
+        "Pneumococco — 3ª dose",
+        "Meningococco B — 3ª dose",
+        "Meningococco C (MenC) — 1ª dose"
+      ]
+    },
+    {
+      "eta": "13 mesi",
+      "etaMesi": 13,
+      "vaccini": [
+        "MPR (Morbillo, Parotite, Rosolia) — 1ª dose",
+        "Varicella (Var) — 1ª dose"
+      ]
+    },
+    {
+      "eta": "15 mesi",
+      "etaMesi": 15,
+      "vaccini": [
+        "MPRV (quadrivalente) — alternativa a MPR+Var separate",
+        "Pneumococco — dose di consolidamento"
+      ]
+    },
+    {
+      "eta": "5–6 anni",
+      "etaMesi": 60,
+      "vaccini": [
+        "MPR — 2ª dose (oppure MPRV)",
+        "Varicella — 2ª dose",
+        "DTPa (Difterite, Tetano, Pertosse) — richiamo",
+        "Polio IPV — richiamo"
+      ]
+    },
+    {
+      "eta": "11–12 anni",
+      "etaMesi": 132,
+      "vaccini": [
+        "dTpa (richiamo adulti) — Difterite, Tetano, Pertosse",
+        "HPV (Papillomavirus) — ciclo 2 dosi (maschi e femmine)",
+        "Meningococco ACWY — 1ª dose"
+      ]
+    }
+  ],
+  "vaccinazioniConsigliate": [
+    {
+      "nome": "Influenza",
+      "descrizione": "Consigliata annualmente da ottobre, obbligatoria per bambini con patologie croniche.",
+      "fascia": "annuale"
+    },
+    {
+      "nome": "Meningococco B",
+      "descrizione": "Non incluso nel calendario regionale Veneto, raccomandato dal Dr. Marini per tutti i lattanti.",
+      "fascia": "facoltativo"
+    },
+    {
+      "nome": "Rotavirus",
+      "descrizione": "Somministrato per via orale nei primi mesi, efficace contro la gastroenterite da rotavirus.",
+      "fascia": "facoltativo"
+    }
+  ]
+}

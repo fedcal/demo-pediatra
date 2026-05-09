@@ -1,0 +1,34 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dr. Marco Marini",
+      "ruolo": "Pediatra — Fondatore dello Studio",
+      "bio": "Medico specialista in Pediatria, iscritto all'Albo di Verona dal 1998. Laurea in Medicina e Chirurgia all'Università di Padova, specializzazione in Pediatria all'Università di Verona. Membro della Società Italiana di Pediatria (SIP). Negli anni ha maturato esperienza particolare in allergologia pediatrica e malattie infettive dell'infanzia.",
+      "anniEsperienza": 26,
+      "specialita": ["Allergologia pediatrica", "Malattie infettive", "Vaccinazioni", "Bilanci di salute"],
+      "certificazioni": ["Specializzazione Pediatria — Univ. Verona", "Membro SIP", "Albo Medici VR n.4821"],
+      "image": "/assets/img/team/marco.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Giulia Ferretti",
+      "ruolo": "Segretaria e Coordinatrice",
+      "bio": "Gestisce agenda, prenotazioni e comunicazioni con le famiglie. Punto di riferimento per informazioni sugli orari, le modalità di visita e la telemedicina. Diploma in Scienze Sociali con master in gestione di strutture sanitarie private.",
+      "anniEsperienza": 8,
+      "specialita": ["Coordinamento appuntamenti", "Gestione documentazione", "Telemedicina"],
+      "certificazioni": ["Corso Privacy GDPR sanitario", "Certificazione segreteria medica"],
+      "image": "/assets/img/team/giulia.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Dr.ssa Sofia Benedetti",
+      "ruolo": "Pediatra Collaboratrice",
+      "bio": "Medico pediatra con specializzazione in neuropsichiatria infantile. Collabora con lo studio per le valutazioni neuropsicomotorie, i bilanci di sviluppo cognitivo e il supporto ai bambini con disturbi dell'apprendimento (DSA).",
+      "anniEsperienza": 10,
+      "specialita": ["Neuropsichiatria infantile", "DSA — Disturbi dell'apprendimento", "Sviluppo psicomotorio"],
+      "certificazioni": ["Specializzazione NPI — Univ. Bologna", "Membro SINPIA", "Albo Medici VR n.6104"],
+      "image": "/assets/img/team/sofia.jpg"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "ragioneSociale": "Dr. Marco Marini Pediatra S.r.l.",
+  "nomeCommerciale": "Dr. Marini Pediatria",
+  "tagline": "Pediatria privata 0-14 anni — Verona",
+  "albo": "Albo Medici Chirurghi e Odontoiatri di Verona, n. 4821",
+  "indirizzo": {
+    "via": "Via Carducci 18",
+    "citta": "Verona",
+    "provincia": "VR",
+    "cap": "37121",
+    "regione": "Veneto",
+    "paese": "Italia",
+    "lat": 45.4384,
+    "lng": 10.9916
+  },
+  "contatti": {
+    "telefono": "+39 045 555 1234",
+    "whatsapp": "+39 345 1234 567",
+    "email": "info@drmarini-pediatria.it",
+    "social": {
+      "facebook": "https://facebook.com/drmarini_pediatria_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "09:00 – 13:00 / 15:00 – 18:00",
+    "martedi": "09:00 – 13:00",
+    "mercoledi": "09:00 – 13:00 / 15:00 – 18:00",
+    "giovedi": "09:00 – 13:00",
+    "venerdi": "09:00 – 13:00 / 15:00 – 17:00",
+    "sabato": "Chiuso",
+    "domenica": "Chiuso"
+  },
+  "servizi": {
+    "telemedicina": true,
+    "richiamoTelefonico": true,
+    "certificatiOnline": true,
+    "accessibileDisabili": true,
+    "parcheggioNearby": true,
+    "urgenzeTelefoniche": true
+  },
+  "metaSeo": {
+    "title": "Dr. Marini Pediatria — Pediatra privato 0-14 anni Verona",
+    "description": "Pediatra privato a Verona, 0-14 anni. Bilanci di salute, vaccinazioni, telemedicina, allergologia. Prenota una visita con il Dr. Marini.",
+    "keywords": ["pediatra verona", "pediatra privato verona", "vaccinazioni bambini verona", "visita pediatrica verona"]
+  }
+}
