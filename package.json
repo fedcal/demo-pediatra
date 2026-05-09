@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-pediatra",
+  "name": "demo-pediatra",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Pediatra Privato — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://pediatra.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-pediatra.git"
+    "url": "https://github.com/fedcal/demo-pediatra.git"
   },
   "scripts": {
     "ng": "ng",

@@ -11,27 +11,27 @@ hero:
       link: https://pediatra.demo.federicocalo.dev
     - theme: alt
       text: Source code
-      link: https://github.com/fedcal/federico-demo-pediatra
+      link: https://github.com/fedcal/demo-pediatra
 
 features:
   - icon: 🅰️
     title: Angular 21 SSR
-    details: Server-Side Rendering nativo con `outputMode: server` e prerender route statiche per SEO ottimale.
+    details: "Server-Side Rendering nativo con `outputMode: server` e prerender route statiche per SEO ottimale."
   - icon: 📊
     title: Mock data realistici
-    details: Dati Italia 2026 (menu, listini, orari, prezzi medi) curati per il verticale Pediatra Privato.
+    details: "Dati Italia 2026 (menu, listini, orari, prezzi medi) curati per il verticale Pediatra Privato."
   - icon: 🚀
     title: Deploy automatico
-    details: Vercel per il sito demo (SSR runtime) + GitHub Pages per la documentazione (VitePress).
+    details: "Vercel per il sito demo (SSR runtime) + GitHub Pages per la documentazione (VitePress)."
   - icon: 🔍
     title: SEO ready
-    details: JSON-LD schema.org, meta tag dinamici, Open Graph, sitemap auto-generata.
+    details: "JSON-LD schema.org, meta tag dinamici, Open Graph, sitemap auto-generata."
   - icon: ⚡
     title: Performance
-    details: Lighthouse target ≥90 SEO + ≥85 Performance + ≥95 Best Practices.
+    details: "Lighthouse target ≥90 SEO + ≥85 Performance + ≥95 Best Practices."
   - icon: 🎨
     title: Customizable
-    details: Design tokens CSS Custom Properties, light theme stile GitHub Primer.
+    details: "Design tokens CSS Custom Properties, light theme stile GitHub Primer."
 ---
 
 ## Introduzione
@@ -70,8 +70,8 @@ Il mercato italiano delle PMI per **Pediatra Privato** ha caratteristiche specif
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-pediatra.git
-cd federico-demo-pediatra
+git clone https://github.com/fedcal/demo-pediatra.git
+cd demo-pediatra
 npm install
 npm start
 # → http://localhost:4200
@@ -88,4 +88,4 @@ npm run serve:ssr:pediatra
 
 - [federicocalo.dev](https://federicocalo.dev) — Portfolio principale
 - [federicocalo.dev/demo](https://federicocalo.dev/demo) — Hub demos completo
-- [GitHub repo](https://github.com/fedcal/federico-demo-pediatra)
+- [GitHub repo](https://github.com/fedcal/demo-pediatra)
